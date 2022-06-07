@@ -46,7 +46,6 @@ int is_palindrome(listint_t **head)
 		size++;
 		tmp = tmp->next;
 	}
-
 	tmp = *head;
 	for (i = 0; i < (size / 2) - 1; i++)
 		tmp = tmp->next;
