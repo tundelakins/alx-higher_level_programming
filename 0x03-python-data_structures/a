@@ -1,6 +1,6 @@
 /*
  * File: 100-print_python_list_info.c
- * Auth: Akins Tunde Kola
+ * Auth: Ogunlade Stephen O
  */
 
 #include <Python.h>
